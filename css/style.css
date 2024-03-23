@@ -1,0 +1,23 @@
+.on-hover {
+    color: #c7916b !important;
+}
+
+.on-hover:hover {
+    color: #fff !important;
+    transition: linear .3s;
+}
+
+.text-custom {
+    color: #c7916b;
+}
+
+.para-custom {
+    color: #86898e;
+}
+
+.img-cover {
+    object-fit: cover;
+    max-width: 200px;
+    width: 100%;
+    max-height: 600px;
+}
